@@ -15,7 +15,7 @@
 
  3) to change the headings you can change in the <h1>   
   <div class="heading">
-            <h1>Be Vegan <br>Be Green</h1>
+            <h1>Be Vegan Be Green</h1>
             <div class="subheading">
                 <h2>The Health is on Your Hand!</h2>
             </div>
@@ -23,7 +23,7 @@
 
         <h1> ABOUT US </h1>      
 
-  4)  change the images
+  4) Change the images
 
   if you want to change the images you can replace the image by own images : background-image: url("images/leaf.png")
   paste the path of the image in url("")
