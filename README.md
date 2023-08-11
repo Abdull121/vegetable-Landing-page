@@ -1,2 +1,2 @@
-# vegitable-Landing-page
-vegitable landing page using  purec Html and Css
+# vegetable-Landing-page
+vegetable landing page using  pure Html and CSS
